@@ -1,25 +1,35 @@
+
 # ClipKit
 
 **Free stream clipping and video editing software.**
 
-ClipKit is a desktop application built for stream clippers who want to capture, edit, and organize clips from their favorite streamers.
+[Website](https://clipkit.net/) · [Download ClipKit](https://clipkit.net/) · [Discord](https://discord.gg/YybSPgPKPy)
 
-Create short-form videos for TikTok, YouTube Shorts, Instagram Reels, and Snapchat, all from one application.
+ClipKit is a desktop application for stream clippers. Capture, edit, and organize clips from your favorite streamers, then create short-form videos for TikTok, YouTube Shorts, Instagram Reels, and Snapchat.
 
-### Features
+## Stream Viewer
 
-- Capture clips from streams
-- Edit and create vertical videos
-- Add captions to clips
+Watch streams and capture moments without switching between multiple applications.
+
+![ClipKit Stream Viewer](https://clipkit.net/screenshots/viewer-4.webp)
+
+## Video Editor
+
+Turn captured moments into short-form videos with ClipKit's built-in editor.
+
+![ClipKit Video Editor with Captions](https://clipkit.net/screenshots/editor-caption.webp)
+
+## Features
+
+- Watch streams and capture clips
+- Edit clips for vertical video platforms
+- Add captions to videos
 - Organize clips by streamer
-- Manage multiple social media accounts and output folders
-- Simplify your clipping workflow
+- Manage multiple social media accounts
+- Organize exported clips into output folders
 
-### Get ClipKit
+## Get Started
 
-Visit **[clipkit.net](https://clipkit.net/)** to learn more and download ClipKit.
+Visit **[clipkit.net](https://clipkit.net/)** to download ClipKit and learn more.
 
-### Community & Support
-
-- **Website:** https://clipkit.net/
-- **Discord:** https://discord.gg/YybSPgPKPy
+For support and community discussions, join our [Discord server](https://discord.gg/YybSPgPKPy).
